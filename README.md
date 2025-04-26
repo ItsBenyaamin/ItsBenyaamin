@@ -11,3 +11,7 @@ I'm very passionate about writing Open Source projects and learning more about #
 - Twitter: [@ItsBenyaamin](https://x.com/ItsBenyaamin)
 - Youtube: [@Ben_Creates](https://youtube.com/@ben_Creates?sub_confirmation=1) Don't forget to Subscribe :) It helps me.
 <br/>
+
+![](https://raw.githubusercontent.com/ItsBenyaamin/MyStats/master/generated/overview.svg#gh-dark-mode-only)
+
+![](https://raw.githubusercontent.com/ItsBenyaamin/MyStats/master/generated/languages.svg)
