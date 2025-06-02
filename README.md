@@ -7,7 +7,8 @@ I'm very passionate about writing Open Source projects and learning more about #
 
 ## 📫 How to reach me:
 - Email: me@benyaamin.com
-- Website: [benyaamin.com](https://benyaamin.com)
+- Blog: [benyaamin.com](https://benyaamin.com)
+- Portfolio: [me.benyaamin.com](https://me.benyaamin.com)
 - Twitter: [@ItsBenyaamin](https://x.com/ItsBenyaamin)
 - Youtube: [@Ben_Creates](https://youtube.com/@ben_Creates?sub_confirmation=1) Don't forget to Subscribe :) It helps me.
 <br/>
