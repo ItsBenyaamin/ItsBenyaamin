@@ -13,6 +13,6 @@ I'm very passionate about writing Open Source projects and learning more about #
 - Youtube: [@Ben_Creates](https://youtube.com/@ben_Creates?sub_confirmation=1) Don't forget to Subscribe :) It helps me.
 <br/>
 
-![](https://raw.githubusercontent.com/ItsBenyaamin/MyStats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/ItsBenyaamin/MyStats/refs/heads/master/overview.svg#gh-dark-mode-only)
 
-![](https://raw.githubusercontent.com/ItsBenyaamin/MyStats/master/generated/languages.svg)
+![](https://raw.githubusercontent.com/ItsBenyaamin/MyStats/refs/heads/master/languages.svg#gh-dark-mode-only)
