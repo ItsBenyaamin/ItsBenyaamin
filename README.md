@@ -1,7 +1,9 @@
 ## About me
-Hi, My name is Benyamin Eskandari. an Android developer which in love with Rust.
+Hi, My name is Benyamin Eskandari. a Full-Stack developer with 11 years of experience on developing various type of software.
 
-I'm very passionate about writing Open Source projects and learning more about #RustLang and System Programming.
+I'm very passionate about writing Open Source projects and learning more about Programming.
+
+💻 Open for freelance and remote positions, Send me an Email or DM me Telegram or X.
 
 <br/>
 
@@ -9,8 +11,8 @@ I'm very passionate about writing Open Source projects and learning more about #
 - Email: me@benyaamin.com
 - Blog: [benyaamin.com](https://benyaamin.com)
 - Portfolio: [me.benyaamin.com](https://me.benyaamin.com)
-- Twitter: [@ItsBenyaamin](https://x.com/ItsBenyaamin)
-- Youtube: [@Ben_Creates](https://youtube.com/@ben_Creates?sub_confirmation=1) Don't forget to Subscribe :) It helps me.
+- X: [@ItsBenyaamin](https://x.com/ItsBenyaamin)
+- Youtube: [@Ben_Creates](https://youtube.com/@benBuildThings?sub_confirmation=1) Don't forget to Subscribe :) It helps me.
 <br/>
 
 ![](https://raw.githubusercontent.com/ItsBenyaamin/MyStats/refs/heads/master/overview.svg#gh-dark-mode-only)
