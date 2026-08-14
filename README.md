@@ -12,7 +12,7 @@ I'm very passionate about writing Open Source projects and learning more about P
 - Blog: [benyaamin.com](https://benyaamin.com)
 - Portfolio: [me.benyaamin.com](https://me.benyaamin.com)
 - X: [@ItsBenyaamin](https://x.com/ItsBenyaamin)
-- Youtube: [@Ben_Creates](https://youtube.com/@benBuildThings?sub_confirmation=1) Don't forget to Subscribe :) It helps me.
+- Youtube: [@BenBuildThings](https://youtube.com/@BenBuildThings?sub_confirmation=1) Don't forget to Subscribe :) It helps me.
 <br/>
 
 ![](https://raw.githubusercontent.com/ItsBenyaamin/MyStats/refs/heads/master/overview.svg#gh-dark-mode-only)
