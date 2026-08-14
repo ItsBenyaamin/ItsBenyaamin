@@ -3,7 +3,7 @@ Hi, My name is Benyamin Eskandari. a Full-Stack developer with 11 years of exper
 
 I'm very passionate about writing Open Source projects and learning more about Programming.
 
-💻 Open for freelance and remote positions, Send me an Email or DM me Telegram or X.
+💻 Open for freelance and remote positions, Send me an Email or DM me on Telegram or X.
 
 <br/>
 
